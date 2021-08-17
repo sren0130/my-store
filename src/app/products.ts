@@ -5,6 +5,7 @@ export interface Product {
   description: string;
 }
 
+// look at this, the list of value can be accessed
 export const products = [
   {
     id: 1,
